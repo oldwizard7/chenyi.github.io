@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
+class: wide
 ---
 
 I am a fourth-year undergraduate student at Wuhan University(https://math.whu.edu.cn/), with a strong foundation in pure mathematics and statistics. My research interests lie at the intersection of machine learning, optimization, and quantitative finance, focusing on chance-constrained optimization, bilevel programming, and interpretable large language models.  
