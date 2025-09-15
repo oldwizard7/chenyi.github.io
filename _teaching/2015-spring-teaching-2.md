@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant: C Programming"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/ta1
+venue: "School of Computer Science, Wuhan University"
+date: 2024-09-01
+location: "Wuhan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Course:** C Programming (Undergraduate level)  
+**Supervisor:** Prof. Yangfan He  
+**Student Evaluation:** 95 / 100  
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Provided lab support and resolved coding issues for 50+ students  
+- Assisted in grading and analyzing assignments  
+- Recorded weekly walkthrough videos to clarify key programming concepts  
