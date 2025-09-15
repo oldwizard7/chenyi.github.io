@@ -4,8 +4,9 @@ collection: talks
 type: "Research Presentation"
 permalink: /talks/2025-08-01-physician-contract-design
 venue: "Department of Industrial Engineering & Decision Analytics, HKUST"
-date: 2025-08-01
-location: "Hong Kong SAR"
+date: 2025-08-05
+location: "Clear Water Bay, Hong Kong SAR"
 ---
 
-This presentation outlines a bilevel chance-constrained programming model to optimize physician contracts under uncertain patient demand. The model addresses the inherent conflict between a clinic's goal to maximize service volume and a physician's need to control workload. We propose an iterative algorithm framework that combines Sample Average Approximation (SAA) and KKT conditions to generate robust solutions. Preliminary results from a case study inspired by the Mayo Clinic demonstrate the viability of our approach.
+
+How can hospitals design contracts that motivate physicians without causing burnout? This presentation introduces a bilevel optimization model to solve this classic dilemma. Viewing the clinic as a "leader" and physicians as "followers," our model uses a chance-constrained program to handle uncertain patient demand. We develop an algorithmic framework to solve this complex problem, finding a near-optimal balance between maximizing service efficiency and maintaining sustainable physician workloads. The model is tested on a Mayo Clinic-inspired scenario, showing its potential to generate smarter, more equitable healthcare contracts.
