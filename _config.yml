@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "About"
+title                    : "Chenyi"
 title_separator          : "-"
 name                     : &name "Chenyi Tong"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   avatar           : "profile_chenyi.png"
   name             : "Chenyi Tong"
   pronouns         : # example: "she/her"  
-  bio              : "UW-Madison Stats student. Interests in AI, Data Science and Operation Research.
+  bio              : "UW-Madison Statistics student. Interests in AI, Data Science and Operation Research.
 "
   location         : "Madison, WI, USA"
   employer         : "UW-Madison"
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "oldwizard7"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/chenyitong777"
+  linkedin         : "chenyitong777"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
