@@ -5,7 +5,7 @@ author_profile: true
 class: wide
 ---
 
-I am currently an exchange student(VISP) at the University of Wisconsin–Madison’s Department of Statistics. Also, I am a fourth-year undergraduate from Wuhan University, where my major is pure mathematics.
+I am currently a fourth-year exchange student (VISP) at the Department of Statistics, University of Wisconsin–Madison. My home institution is Wuhan University in China, where I am majoring in Pure Mathematics.
 
 My research interests lie at the intersection of AI, Data Science, and Operations Research, with an emphasis on interpretable large language models and algorithms for decision making.
 
