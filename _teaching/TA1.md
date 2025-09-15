@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/whu-c-ta
 venue: "School of Computer Science, Wuhan University"
-date: 2024-09————2025-01
+date: 2024.09----2025.01
 location: "Wuhan, China"
 ---
 
