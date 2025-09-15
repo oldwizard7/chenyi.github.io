@@ -2,7 +2,7 @@
 title: "Teaching Assistant: C Programming"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/whu-c-ta
+permalink: /teaching/ta1
 venue: "School of Computer Science, Wuhan University"
 date: 2024-09-01
 location: "Wuhan, China"
