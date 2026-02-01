@@ -5,8 +5,8 @@ author_profile: true
 class: wide
 ---
 
-I am currently a fourth-year exchange student (VISP) at the Department of Statistics, University of Wisconsin–Madison. My home institution is Wuhan University in China, where I am majoring in Pure Mathematics.
+Hello! I am a visiting student in the Department of Statistics at University of Wisconsin–Madison. My home institution is Wuhan University, where I major in Pure Mathematics.
 
-My research interests lie at the intersection of AI, Data Science, and Operations Research, with an emphasis on interpretable large language models and algorithms for decision-making under uncertainty.
+My research focuses on LLM-based agent applications, agentic reinforcement learning, and decision-making under uncertainty. I build and evaluate tool-using agents that can reliably solve multi-step tasks, with applications in scientific discovery and optimization.
 
 I have pursued a summer research internship at HKUST IEDA , where I worked on bilevel chance-constrained optimization for healthcare applications. This experience strengthened my ability to bridge rigorous mathematical foundations with practical applications, aiming to develop efficient, reliable, and interpretable methods for complex real-world problems
