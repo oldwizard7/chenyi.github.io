@@ -1,6 +1,5 @@
 ---
 title: "TOAST: Multi-Agent Collaborative System for Symbolic Regression"
-collection: publications
 category: conferences
 permalink: /publication/toast-symbolic-regression/
 excerpt: "Submitted to ACL ARR (January 2026)."
