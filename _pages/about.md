@@ -9,7 +9,7 @@ Hello! I am a visiting student in the **Department of Statistics** at **the Univ
 
 My research focuses on LLM-based agent applications and agentic reinforcement learning. I aim to develop principled, efficient, and reliable methods that make intelligent systems more trustworthy in complex real-world settings.
 
-Currently, I am fortunate to be mentored by Prof. Xiao Luo at the University of Wisconsin–Madison. I also collaborate closely with the Scalable Analytics Institute (ScAi) at UCLA. 
+Currently, I am fortunate to be advised by Prof. Xiao Luo at the University of Wisconsin–Madison. I also collaborate closely with the Scalable Analytics Institute (ScAi) at UCLA. 
 
 Previously, I was a research intern at HKUST IEDA, working on decision-making under uncertainty.
 
