@@ -11,6 +11,6 @@ My research focuses on LLM-based agent applications, and agentic reinforcement l
 
 Currently, I am fortunate to be mentored by Prof. Xiao Luo at the University of Wisconsin–Madison. I also collaborate closely with the Scalable Analytics Institute (ScAi) at UCLA. 
 
-Previously, I was a research intern at HKUST IEDA for six months in 2025, working on decision-making under uncertainty.
+Previously, I was a research intern at HKUST IEDA in 2025, working on decision-making under uncertainty.
 
 I am actively seeking research opportunities for Summer 2026. Feel free to reach out!
