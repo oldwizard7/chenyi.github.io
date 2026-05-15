@@ -5,7 +5,7 @@ author_profile: true
 class: wide
 ---
 
-Hello! I am a visiting student in the **Department of Statistics** at **the University of Wisconsin–Madison**. My home institution is **Wuhan University**, where I major in Pure Mathematics.
+Hello! I am a master student in the **Department of Statistics** at **the University of Wisconsin–Madison**. My home institution is **Wuhan University**, where I major in Pure Mathematics.
 
 My research focuses on LLM-based agents and post-training for agentic LLMs. I aim to develop principled, efficient, and reliable methods that make intelligent systems more trustworthy in complex real-world settings.
 
