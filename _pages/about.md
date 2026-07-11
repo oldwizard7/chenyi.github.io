@@ -12,5 +12,3 @@ My research focuses on LLM-based agents and post-training for agentic LLMs. I ai
 Currently, I am fortunate to be advised by Prof. Xiao Luo at the University of Wisconsin–Madison. I also collaborate closely with the Scalable Analytics Institute (ScAi) at UCLA. 
 
 Previously, I was a research intern at HKUST IEDA, working on decision-making under uncertainty.
-
-I am actively seeking research opportunities for Summer 2026. If you have any openings, ideas, or just want to chat, feel free to reach out!
