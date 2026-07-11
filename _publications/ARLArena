@@ -6,5 +6,5 @@ permalink: /publication/arlarena-policy-gradient-stability/
 date: 2026-01-18
 venue: "ICML"
 pubstate: "accepted"
-paperurl: ""   # e.g., https://openreview.net/pdf?id=XXXX  or /files/ARLArena.pdf
+paperurl: "https://arxiv.org/abs/2602.21534"   
 ---
