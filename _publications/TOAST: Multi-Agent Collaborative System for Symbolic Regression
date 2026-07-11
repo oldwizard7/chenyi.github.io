@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/toast-symbolic-regression/
 date: 2026-01-05
-venue: "ACL ARR"
+venue: "ACM Transactions on AI for Science"
 pubstate: "submitted"
 paperurl: ""   # /files/TOAST.pdf  or OpenReview PDF link
 ---
