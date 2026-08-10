@@ -6,7 +6,7 @@ permalink: /publication/2026-04-01-crystalstar
 date: 2026-04-01
 venue: "COLM"
 pubstate: "accepted"
-paperurl: ""
+paperurl: "https://openreview.net/pdf?id=f5iizhcgxH"
 
 ---
 
