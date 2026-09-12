@@ -22,12 +22,12 @@
     });
 
     window.addEventListener('resize', function () {
-      if (window.innerWidth > 860) closeNavigation();
+      if (window.innerWidth > 760) closeNavigation();
     });
   }
 
   const tabs = document.querySelectorAll('.publication-tab');
-  const publications = document.querySelectorAll('.publication-card');
+  const publications = document.querySelectorAll('.publication');
 
   tabs.forEach(function (tab) {
     tab.addEventListener('click', function () {
