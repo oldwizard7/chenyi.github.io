@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">TOAST abstract illustration</title>
+  <desc id="desc">Three collaborating agents combine candidate equations into a symbolic expression.</desc>
+  <defs><linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff1d8"/><stop offset="1" stop-color="#f0e8dc"/></linearGradient></defs>
+  <rect width="720" height="420" rx="26" fill="url(#bg3)"/>
+  <g fill="none" stroke="#b47718" stroke-width="4" stroke-dasharray="10 10"><path d="M170 128 350 210M548 123 350 210M180 316l170-106"/></g>
+  <g><circle cx="151" cy="119" r="66" fill="#fff" stroke="#b47718" stroke-width="5"/><circle cx="563" cy="113" r="66" fill="#fff" stroke="#8f1733" stroke-width="5"/><circle cx="163" cy="315" r="66" fill="#fff" stroke="#24577d" stroke-width="5"/><rect x="285" y="159" width="236" height="103" rx="20" fill="#252d35"/></g>
+  <g font-family="Georgia, serif" text-anchor="middle"><text x="151" y="129" fill="#91600f" font-size="27">x² + y</text><text x="563" y="123" fill="#76172e" font-size="26">sin(x)</text><text x="163" y="325" fill="#1f5070" font-size="25">e⁻ˣ</text><text x="403" y="221" fill="#fff" font-size="28" font-weight="700">f(x) = Σ φᵢ(x)</text></g>
+  <text x="40" y="390" fill="#79500f" font-family="Georgia, serif" font-size="27" font-weight="700">TOAST</text>
+</svg>
