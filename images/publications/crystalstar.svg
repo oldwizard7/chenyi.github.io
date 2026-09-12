@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">CrystalSTAR abstract illustration</title>
+  <desc id="desc">A crystal lattice connected to three reflection nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7e7ec"/><stop offset="1" stop-color="#e9eef6"/></linearGradient>
+    <linearGradient id="crystal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d95778"/><stop offset="1" stop-color="#77162f"/></linearGradient>
+  </defs>
+  <rect width="720" height="420" rx="26" fill="url(#bg)"/>
+  <g opacity=".36" stroke="#8f1733" stroke-width="2"><path d="M65 78h590M65 150h590M65 222h590M65 294h590M65 366h590"/><path d="M110 45v330M210 45v330M310 45v330M410 45v330M510 45v330M610 45v330"/></g>
+  <g transform="translate(208 68)">
+    <path d="m152 0 123 71v142l-123 71L29 213V71z" fill="#fff" fill-opacity=".78" stroke="#7f1b34" stroke-width="5"/>
+    <path d="m152 0 56 103-56 181-56-181z" fill="url(#crystal)" opacity=".92"/>
+    <path d="m29 71 67 32 56-103M275 71l-67 32-56-103M29 213l67-110 56 181M275 213l-67-110-56 181" fill="none" stroke="#7f1b34" stroke-width="4"/>
+    <circle cx="152" cy="0" r="12" fill="#f3c456"/><circle cx="29" cy="71" r="10" fill="#24577d"/><circle cx="275" cy="71" r="10" fill="#24577d"/><circle cx="29" cy="213" r="10" fill="#24577d"/><circle cx="275" cy="213" r="10" fill="#24577d"/><circle cx="152" cy="284" r="12" fill="#f3c456"/>
+  </g>
+  <g fill="#fff" stroke="#8f1733" stroke-width="4"><circle cx="91" cy="94" r="25"/><circle cx="628" cy="92" r="25"/><circle cx="627" cy="330" r="25"/></g>
+  <g fill="none" stroke="#8f1733" stroke-width="3" stroke-dasharray="8 9"><path d="M116 94h89M516 94h87M505 306l96 19"/></g>
+  <text x="40" y="390" fill="#63162a" font-family="Georgia, serif" font-size="27" font-weight="700">CrystalSTAR</text>
+</svg>

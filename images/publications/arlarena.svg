@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">ARLArena abstract illustration</title>
+  <desc id="desc">Stable and unstable agent learning trajectories across an arena.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e7f0f6"/><stop offset="1" stop-color="#ecedef"/></linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#367da5" stop-opacity=".45"/><stop offset="1" stop-color="#367da5" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="720" height="420" rx="26" fill="url(#bg2)"/>
+  <g transform="translate(62 58)">
+    <path d="M0 0v286h596" fill="none" stroke="#73818d" stroke-width="3"/>
+    <g stroke="#aab5be" stroke-width="1"><path d="M0 56h596M0 113h596M0 170h596M0 227h596"/><path d="M119 0v286M238 0v286M357 0v286M476 0v286"/></g>
+    <path d="M0 251C62 246 92 219 138 222s73 16 112-13c45-33 59-110 112-103 45 6 66 58 115 29 40-23 54-82 119-93v244H0Z" fill="url(#area)"/>
+    <path d="M0 251C62 246 92 219 138 222s73 16 112-13c45-33 59-110 112-103 45 6 66 58 115 29 40-23 54-82 119-93" fill="none" stroke="#205a7c" stroke-width="7" stroke-linecap="round"/>
+    <path d="M0 246c65-13 91-44 139-23 50 22 85-35 125-11 43 26 70-86 118-84 60 2 73-22 111-8 43 16 64-26 103-31" fill="none" stroke="#9c2440" stroke-width="4" stroke-dasharray="10 9" opacity=".72"/>
+    <g fill="#fff" stroke="#205a7c" stroke-width="5"><circle cx="138" cy="222" r="12"/><circle cx="362" cy="106" r="12"/><circle cx="596" cy="42" r="12"/></g>
+  </g>
+  <rect x="80" y="70" width="118" height="42" rx="21" fill="#fff" opacity=".92"/><circle cx="105" cy="91" r="8" fill="#205a7c"/><text x="122" y="97" fill="#21465f" font-family="Arial, sans-serif" font-size="17" font-weight="700">STABLE</text>
+  <text x="40" y="390" fill="#173f58" font-family="Georgia, serif" font-size="27" font-weight="700">ARLArena</text>
+</svg>
